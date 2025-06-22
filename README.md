@@ -23,11 +23,13 @@ A powerful automation tool that scrapes dynamic web content using Selenium, proc
 ## 🛠️ Tech Stack
 
 - **Python 3.10+**
+- **BeautifulSoup**
 - **Selenium** for dynamic web scraping
 - **LangChain** for language model orchestration
 - **Google Gemini API** for summarization
 - **Chromedriver** or headless browser (e.g., Chrome, Firefox)
 - **dotenv / argparse** for environment configuration
+- **Streamlit** For UI!
 
 ---
 
